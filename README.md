@@ -18,24 +18,31 @@ Comparing maximum speed of sounds, for deep and shallow parameters, they are 149
 Displayed below are the average ssp profiles for all 14 scenarios:
 ![avg OSSPPM w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSSPPM%20w.PNG)
 ![avg OSSPPM s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSSPPM%20s.PNG)
-OSSPPM
+# OSSPPM
+
 ![avg OSDBP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSDBP%20w.PNG)
 ![avg OSDBP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSDBP%20s.PNG)
-OSDBP
+# OSDBP
+
 ![avg OSBSP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBSP%20w.PNG)
 ![avg OSBSP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBSP%20s.PNG)
-OSBSP
+# OSBSP
+
 ![avg OSBDP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBDP%20w.PNG)
 ![avg OSBDP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBDP%20s.PNG)
-OSBDP
+# OSBDP
+
 ![avg OOCSPM w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OOCSPM%20w.PNG)
 ![avg OOCSPM s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OOCSPM%20s.PNG)
-OOCSPM
+# OOCSPM
+
 ![avg ABSP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABSP%20w.PNG)
 ![avg ABSP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABSP%20s.PNG)
-ABSP
+# ABSP
+
 ![avg ABDP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABDP%20w.PNG)
 ![avg ABDP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABDP%20s.PNG)
+# ABDP
 
 (Some of the same days are unobtainable. Years may differ but range is generally within the same week of late November or mid December)
 
