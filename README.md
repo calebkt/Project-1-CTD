@@ -36,7 +36,7 @@ Displayed below are the average ssp profiles for all 14 scenarios:
 
 ![avg ABDP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABDP%20w.PNG)![avg ABDP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABDP%20s.PNG)
 # ABDP
-
+______________________________________________________________________________________________________________________________________
 (Some of the same days are unobtainable. Years may differ but range is generally within the same week of late November or mid December)
-
+______________________________________________________________________________________________________________________________________
 It is relevant that the speed of sound is faster in the ocean at as well at the surface of the water. In relevancy to day and night, there is not a large speed of sound change. Compared to other data, the speed of sound is very similar within 1499 m/s in deep waters.
