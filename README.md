@@ -16,32 +16,25 @@ Note: OSBDP winter, then OSBDP summer respectively. Winter data no matter the ti
 In terms of maximum ssp, the maximum ssp occurs when dives are generally deeper. 
 Comparing maximum speed of sounds, for deep and shallow parameters, they are 1499 m/s to 1497 m/s respectively. The speed of sound profile is higher in the summer as well, because as the temperature of water increases, sound waves travel faster in water.
 Displayed below are the average ssp profiles for all 14 scenarios:
-![avg OSSPPM w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSSPPM%20w.PNG)
-![avg OSSPPM s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSSPPM%20s.PNG)
+![avg OSSPPM w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSSPPM%20w.PNG)![avg OSSPPM s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSSPPM%20s.PNG)
 # OSSPPM
 
-![avg OSDBP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSDBP%20w.PNG)
-![avg OSDBP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSDBP%20s.PNG)
+![avg OSDBP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSDBP%20w.PNG)![avg OSDBP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSDBP%20s.PNG)
 # OSDBP
 
-![avg OSBSP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBSP%20w.PNG)
-![avg OSBSP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBSP%20s.PNG)
+![avg OSBSP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBSP%20w.PNG)![avg OSBSP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBSP%20s.PNG)
 # OSBSP
 
-![avg OSBDP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBDP%20w.PNG)
-![avg OSBDP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBDP%20s.PNG)
+![avg OSBDP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBDP%20w.PNG)![avg OSBDP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OSBDP%20s.PNG)
 # OSBDP
 
-![avg OOCSPM w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OOCSPM%20w.PNG)
-![avg OOCSPM s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OOCSPM%20s.PNG)
+![avg OOCSPM w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OOCSPM%20w.PNG)![avg OOCSPM s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20OOCSPM%20s.PNG)
 # OOCSPM
 
-![avg ABSP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABSP%20w.PNG)
-![avg ABSP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABSP%20s.PNG)
+![avg ABSP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABSP%20w.PNG)![avg ABSP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABSP%20s.PNG)
 # ABSP
 
-![avg ABDP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABDP%20w.PNG)
-![avg ABDP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABDP%20s.PNG)
+![avg ABDP w](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABDP%20w.PNG)![avg ABDP s](https://github.com/calebkt/Project-1-CTD/blob/master/images/avg%20ABDP%20s.PNG)
 # ABDP
 
 (Some of the same days are unobtainable. Years may differ but range is generally within the same week of late November or mid December)
